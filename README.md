@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Michelle2008
-- 👀 I’m interested in study Java and Phyton
+- 👀 I’m interested in study Java, Python e  MySQL.
 - 🌱 I’m currently learning new languuages
 - 
 
